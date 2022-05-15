@@ -16,7 +16,6 @@ $ file *
 memo.txt: ASCII text
 SAM:      MS Windows registry file, NT/2000 or above
 SYSTEM:   MS Windows registry file, NT/2000 or above
-
 ```
 The memo mentions "mimi-katz" - mimikatz, a tool that can be used to dump password hashes from registry files. This seems to be what we must do with these registry hives. However, mimikatz is a Windows only utility, so I used pypykatz instead.
 ```
