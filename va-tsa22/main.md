@@ -15,7 +15,7 @@ Finished in 1st place with only two challenges unsolved :)
 - web
   - [wordle cheats (50)](./web/wordlecheats.md)
   - [RooteurOS (200)](./web/rooteuros.md)
-  - Cowsay (150)
+  - [Cowsay (150)](./web/cowsay.md)
 - forensics
   - [Noah's Compression](./forensics/noahscompression.md) (200)
   - [A2PR#6 (100)](./forensics/a2pr6.md)
