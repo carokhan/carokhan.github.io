@@ -8,7 +8,8 @@
   - [Wozniak's Revenge (100)](./programming/wozniaksrevenge.md)
 - recon
   - [The Digital Library (50)](./recon/thedigitallibrary.md)
-- wordle cheats (50)
+- web
+  - [wordle cheats (50)](./web/wordlecheats.md)
 - RooteurOS (200)
 - GO Big (100)
 - Programmable Data Processor (100)
