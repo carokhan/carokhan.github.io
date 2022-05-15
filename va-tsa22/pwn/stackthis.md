@@ -43,5 +43,5 @@ magicNumber: 1734437990
 
 <details> 
     <summary>Flag</summary>
-flag{cnoevil}
+flag{funandprofit}
 </details>
