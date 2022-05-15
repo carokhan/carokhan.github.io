@@ -23,7 +23,8 @@ Finished in 1st place with only two challenges unsolved :)
 - pwn
   - [From C to Shining C (100)](./pwn/fromctoshiningc.md)
   - [Stack This! (100)](./pwn/stackthis.md)
-- NOProblem (200)
+- reversing
+  - [NOProblem (200)](./reversing/noproblem.md)
 - backup-share (200)
 - Big Blue (100)
 
