@@ -3,7 +3,7 @@
 ***
 ## Writeups:
 - [Antidisestablishmentarianism (100)](./crypto/antidisestablishmentarianism.md)
-- Wozniak's Revenge (100)
+- [Wozniak's Revenge (100)](./programming/wozniaksrevenge.md)
 - The Digital Library (50)
 - wordle cheats (50)
 - RooteurOS (200)
