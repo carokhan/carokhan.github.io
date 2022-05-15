@@ -36,8 +36,8 @@ Offset   Hex Data                                          Characters
 $000000  20 58 FC A2 00 BD 11 80  F0 06 20 ED FD E8 10 F5   X|".=.. p. m}h.u
 $000010  60 E6 EC E1 E7 FB E1 F0  F0 EC E5 E9 E9 E6 EF F2  `******* ********
 $000020  E5 F6 E5 F2 FD 00 .. ..  .. .. .. .. .. .. .. ..  *****.           
-** END **
-
+** END * *
+```
 <details> 
     <summary>Flag</summary>
 flag{appleiiforever}
