@@ -9,10 +9,10 @@
   - [GO Big (100)](./programming/gobig.md)
 - recon
   - [The Digital Library (50)](./recon/thedigitallibrary.md)
+  - [Programmable Data Processor (100)](./recon/programmabledataprocessor.md)
 - web
   - [wordle cheats (50)](./web/wordlecheats.md)
   - [RooteurOS (200)](./web/rooteuros.md)
-- Programmable Data Processor (100)
 - Noah's Compression (200)
 - A2PR#6 (100)
 - Cowsay (150)
