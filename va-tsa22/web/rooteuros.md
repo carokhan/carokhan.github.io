@@ -4,7 +4,7 @@
 ## Challenge description:
 > Rooteur Inc. is a newcomer in the teleco industry. In their rush to market they appear to have skipped some parts of the QA process... including penetration testing.
 >
-> https://vatsa-rooteuros.chals.io/
+> [https://vatsa-rooteuros.chals.io/](https://vatsa-rooteuros.chals.io/)
 
 ## Solution
 Line 54 of the page source has an interesting comment:

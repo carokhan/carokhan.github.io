@@ -4,7 +4,7 @@
 ## Challenge description:
 > I'm really bad at Wordle. Can you cheat for me and show me how to make my max streak 1337?
 > 
-> https://vatsa-wordle-cheats.chals.io/
+> [https://vatsa-wordle-cheats.chals.io/](https://vatsa-wordle-cheats.chals.io/)
 
 ## Solution
 Opening the Developer Tools and going to the Search in the bottom panel, we can search for 1337. This returns line 1965 in main.e65ce0a5.js. 
