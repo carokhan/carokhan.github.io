@@ -80,7 +80,7 @@ Starting program: noproblem
 Breakpoint 1, _loop () at missing.s:39
 ...
 ```
-gdb hits our breakpoint, and then prints out information from the registry, which is where we can see our variables - including the flag!
+gdb hits our breakpoint, and then prints out information from the registry, which is where we can see the addresses and the values at those addresses - including the flag!
 ```
 ...
 registers
