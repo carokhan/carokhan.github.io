@@ -15,7 +15,7 @@
   - [RooteurOS (200)](./web/rooteuros.md)
 - forensics
   - [Noah's Compression](./forensics/noahscompression.md) (200)
-- A2PR#6 (100)
+  - [A2PR#6 (100)](./forensics/a2pr6.md)
 - Cowsay (150)
 - From C to Shining C (100)
 - Stack This! (100)
