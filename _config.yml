@@ -6,3 +6,5 @@ relative_links:
 theme: jekyll-theme-hacker
 title: My CTF writeups
 description: Apoorva Saurav
+github:
+  is_project_page: false
