@@ -2,9 +2,12 @@
 ### April 28th - April 30th, 2022
 ***
 ## Writeups:
-- [Antidisestablishmentarianism (100)](./crypto/antidisestablishmentarianism.md)
-- [Wozniak's Revenge (100)](./programming/wozniaksrevenge.md)
-- The Digital Library (50)
+- crypto
+  - [Antidisestablishmentarianism (100)](./crypto/antidisestablishmentarianism.md)
+- programming
+  - [Wozniak's Revenge (100)](./programming/wozniaksrevenge.md)
+- recon
+  - [The Digital Library (50)](./recon/thedigitallibrary.md)
 - wordle cheats (50)
 - RooteurOS (200)
 - GO Big (100)
@@ -20,5 +23,7 @@
 - Big Blue (100)
 
 ## Unsolved:
-- ebooksy (200)
-- Cloudnet (200)
+- crypto
+  - ebooksy (200)
+- web
+  - Cloudnet (200)
