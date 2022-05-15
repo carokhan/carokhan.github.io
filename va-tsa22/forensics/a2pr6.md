@@ -4,7 +4,7 @@
 ## Challenge description:
 > A disk a day will keep the doctor away.
 > 
-> Download file: forgot to save :(
+> Download file: [a2pr6.dsk](../assets/a2pr6.dsk)
 
 ## Solution 
 We can run the file command to get more information on the file.
