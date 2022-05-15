@@ -6,7 +6,7 @@ Finished in 1st place with only two challenges unsolved :)
 ## Writeups:
 - crypto
   - [Antidisestablishmentarianism (100)](./crypto/antidisestablishmentarianism.md)
-  - backup-share (200)
+  - [backup-share (200)](./crypto/backupshare.md)
 - programming
   - [Wozniak's Revenge (100)](./programming/wozniaksrevenge.md)
   - [GO Big (100)](./programming/gobig.md)
