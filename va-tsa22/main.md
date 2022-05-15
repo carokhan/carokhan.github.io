@@ -1,6 +1,8 @@
 # Virginia TSA Technosphere 2022 CTF
 ### April 28th - April 30th, 2022
 ***
+## Event results
+Finished in 1st place with only two challenges unsolved :)
 ## Writeups:
 - crypto
   - [Antidisestablishmentarianism (100)](./crypto/antidisestablishmentarianism.md)
@@ -13,10 +15,10 @@
 - web
   - [wordle cheats (50)](./web/wordlecheats.md)
   - [RooteurOS (200)](./web/rooteuros.md)
+  - Cowsay (150)
 - forensics
   - [Noah's Compression](./forensics/noahscompression.md) (200)
   - [A2PR#6 (100)](./forensics/a2pr6.md)
-- Cowsay (150)
 - From C to Shining C (100)
 - Stack This! (100)
 - Intrawebz (100)
