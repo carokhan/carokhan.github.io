@@ -18,3 +18,6 @@
 - NOProblem (200)
 - backup-share (200)
 - Big Blue (100)
+  ## Unsolved:
+  - ebooksy (200)
+  - Cloudnet (200)
