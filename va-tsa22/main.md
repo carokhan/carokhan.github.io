@@ -13,7 +13,8 @@
 - web
   - [wordle cheats (50)](./web/wordlecheats.md)
   - [RooteurOS (200)](./web/rooteuros.md)
-- Noah's Compression (200)
+- forensics
+  - [Noah's Compression](./forensics/noahscompression.md) (200)
 - A2PR#6 (100)
 - Cowsay (150)
 - From C to Shining C (100)
