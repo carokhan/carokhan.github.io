@@ -13,3 +13,5 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-hacker
+title: My CTF writeups
+description: Apoorva Saurav
