@@ -21,7 +21,7 @@ Finished in 1st place with only two challenges unsolved :)
   - [A2PR#6 (100)](./forensics/a2pr6.md)
 - pwn
   - [From C to Shining C (100)](./pwn/fromctoshiningc.md)
-  - Stack This! (100)
+  - [Stack This! (100)](./pwn/stackthis.md)
 - Intrawebz (100)
 - NOProblem (200)
 - backup-share (200)
