@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -14,19 +13,3 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-hacker
-=======
-title: My CTF writeups
-description: Apoorva Saurav
-url: "hcpssaurava.github.io" 
-github_username:  hcpssaurava
-repository: hcpssaurava/hcpssaurava.github.io
-plugins:
-  - jekyll-relative-links
-  - jekyll-remote-theme
-remote_theme: pages-themes/hacker@v0.2.0
-relative_links:
-  enabled: true
-  collections: true
-theme: jekyll-theme-hacker
-
->>>>>>> Fixing
