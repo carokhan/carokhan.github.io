@@ -1,5 +1,5 @@
 # Wordle Cheats (50)
-#### web - Virginia TSA Technosphere 2022 CTF
+#### web - [Virginia TSA Technosphere 2022 CTF](../main.md)
 
 ## Challenge description:
 > I'm really bad at Wordle. Can you cheat for me and show me how to make my max streak 1337?
