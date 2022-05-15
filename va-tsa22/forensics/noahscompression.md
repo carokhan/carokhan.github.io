@@ -16,6 +16,7 @@ noahscompression: ARC archive data, dynamic LZW
 
 Googling ARC archives revealed they could be extracted using the arc utility, which can be installed with aptitude using `sudo apt install arc` 
 
+While the flag file itself still seems to be compressed, the flag itself is in plaintext.
 ```
 $ arc x noahscompression
 Extracting file: flag
