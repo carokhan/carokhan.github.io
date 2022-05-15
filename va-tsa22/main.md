@@ -20,7 +20,7 @@ Finished in 1st place with only two challenges unsolved :)
   - [Noah's Compression](./forensics/noahscompression.md) (200)
   - [A2PR#6 (100)](./forensics/a2pr6.md)
 - pwn
-  - [From C to Shining C (100)]
+  - [From C to Shining C (100)](./pwn/fromctoshiningc.md)
 - Stack This! (100)
 - Intrawebz (100)
 - NOProblem (200)
