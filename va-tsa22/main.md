@@ -10,7 +10,7 @@
   - [The Digital Library (50)](./recon/thedigitallibrary.md)
 - web
   - [wordle cheats (50)](./web/wordlecheats.md)
-- RooteurOS (200)
+  - [RooteurOS (200)](./web/rooteuros.md)
 - GO Big (100)
 - Programmable Data Processor (100)
 - Noah's Compression (200)
