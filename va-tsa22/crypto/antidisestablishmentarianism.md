@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# Antidisestablishmentarianism (100)
-### crypto
-=======
 ### crypto
 # Antidisestablishmentarianism (100)
->>>>>>> Fixing
 
 ## Challenge description:
 > Gilbert S. Vernam is quite frustrated that you have broken all his ciphers and is, for this one time only, bringing out the big time cipher for the security of his iPad. Can you still break in? Be sure to include the braces!
