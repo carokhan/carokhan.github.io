@@ -1,4 +1,4 @@
-# GO Big     (100)
+# GO Big (100)
 #### programming - Virginia TSA Technosphere 2022 CTF
 
 ## Challenge description:
