@@ -17,7 +17,7 @@ memo.txt: ASCII text
 SAM:      MS Windows registry file, NT/2000 or above
 SYSTEM:   MS Windows registry file, NT/2000 or above
 ```
-The memo mentions "mimi-katz" - mimikatz, a tool that can be used to dump password hashes from registry files. This seems to be what we must do with these registry hives. However, mimikatz is a Windows only utility, so I used pypykatz instead.
+The memo mentions "mimi-katz" - [mimikatz](https://github.com/ParrotSec/mimikatz), a tool that can be used, among other things, to dump password hashes from registry files. This seems to be what we must do with these registry hives. However, mimikatz is a Windows only utility, so I used [pypykatz](https://github.com/skelsec/pypykatz), a platform independent implementation written in Python, instead.
 ```
 $ pypykatz registry --sam SAM SYSTEM
 WARNING:pypykatz:SECURITY hive path not supplied! Parsing SECURITY will not work

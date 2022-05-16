@@ -26,7 +26,8 @@ Finished in 1st place with only two challenges unsolved :)
   - [Stack This! (100)](./pwn/stackthis.md)
 - reversing
   - [NOProblem (200)](./reversing/noproblem.md)
-- Big Blue (100)
+- misc
+  - [Big Blue (100)](./misc/bigblue.md)
 
 ## Unsolved:
 - crypto
