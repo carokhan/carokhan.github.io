@@ -12,10 +12,10 @@
   - I don’t see how you can ever finish, if you don't begin (100)
   - Is my house locked? (150)
 - forensics
-  - A picture is worth 1000 words. (25)
+  - [A picture is worth 1000 words. (25)](./forensics/apictureisworth1k.md)
   - What the Hex is going on (125)
 - general
-  - How do you? (5)
+  - [How do you? (5)](./general/howdoyou.md)
 - reversing
   - Hack the code! (35)
 
