@@ -1,4 +1,4 @@
-# Virginia TSA Technosphere 2022 CTF
+# Virginia TSA Technosphere CTF
 ### April 28th - April 30th, 2022
 ***
 ## Event results
