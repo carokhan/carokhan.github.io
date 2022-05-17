@@ -1,5 +1,5 @@
 # Cowsay (150)
-#### web - [Virginia TSA Technosphere 2022 CTF](../main.md)
+#### web - [Virginia TSA Technosphere CTF](../main.md)
 
 ## Challenge description:
 > Let your business be cowsay enabled! Enjoy the finest cowsay experience thanks to our revolutionary, and secure API.

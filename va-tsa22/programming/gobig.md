@@ -1,5 +1,5 @@
 # GO Big (100)
-#### programming - [Virginia TSA Technosphere 2022 CTF](../main.md)
+#### programming - [Virginia TSA Technosphere CTF](../main.md)
 
 ## Challenge description:
 > Ken Thompson has a new programming language he is trying to promote so he has written a program that will give you a flag when you run it. He promises this new language can be installed on Mac OS X, Linux, or Windows. Can you find the flag?

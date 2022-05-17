@@ -1,5 +1,5 @@
 # Stack This! (100)
-#### pwn - [Virginia TSA Technosphere 2022 CTF](../main.md)
+#### pwn - [Virginia TSA Technosphere CTF](../main.md)
 
 ## Challenge description:
 > Quite ironically, the CTFd engineers are hard at work on a new utility for [stack smashing](https://wiki.c2.com/?StackSmashing) and seem to have put a stack vulnerability into the very same program.

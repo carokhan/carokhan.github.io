@@ -1,5 +1,5 @@
 # NOProblem (200)
-#### reversing - [Virginia TSA Technosphere 2022 CTF](../main.md)
+#### reversing - [Virginia TSA Technosphere CTF](../main.md)
 
 ## Challenge description:
 > This exectuable is supposed to print a string, but it doesn't? Can you fix it for a flag? Maybe reading up on [syscalls](https://en.wikipedia.org/wiki/System_call) will help you.

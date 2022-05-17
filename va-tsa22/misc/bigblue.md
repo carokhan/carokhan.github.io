@@ -1,5 +1,5 @@
 # Big Blue (100)
-#### misc - [Virginia TSA Technosphere 2022 CTF](../main.md)
+#### misc - [Virginia TSA Technosphere CTF](../main.md)
 
 ## Challenge description:
 > Thomas J. Watson has found this message. Unfortunately, his newfangled computers don't seem to understand it and he can't get his IBM 360 running. Do you THINK you can help him?

@@ -1,5 +1,5 @@
 # From C to Shining C (100)
-#### pwn - [Virginia TSA Technosphere 2022 CTF](../main.md)
+#### pwn - [Virginia TSA Technosphere CTF](../main.md)
 
 ## Challenge description:
 > The elves have mistakenly put a [string format vulnerability](https://owasp.org/www-community/attacks/Format_string_attack) that might reveal a flag in this program.

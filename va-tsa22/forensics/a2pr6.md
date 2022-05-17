@@ -1,5 +1,5 @@
 # A2PR#6 (100)
-#### programming - [Virginia TSA Technosphere 2022 CTF](../main.md)
+#### programming - [Virginia TSA Technosphere CTF](../main.md)
 
 ## Challenge description:
 > A disk a day will keep the doctor away.

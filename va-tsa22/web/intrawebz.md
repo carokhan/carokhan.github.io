@@ -1,5 +1,5 @@
 # Intrawebz (100)
-#### web - [Virginia TSA Technosphere 2022 CTF](../main.md)
+#### web - [Virginia TSA Technosphere CTF](../main.md)
 
 ## Challenge description:
 > You've seen the interwebz. Now get ready for the INTRAwebz

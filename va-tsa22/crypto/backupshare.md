@@ -1,5 +1,5 @@
 # backup-share (200)
-#### crypto - [Virginia TSA Technosphere 2022 CTF](../main.md)
+#### crypto - [Virginia TSA Technosphere CTF](../main.md)
 
 ## Challenge description:
 > Our school administrator left those files on our samba share, I wonder what do they do...
