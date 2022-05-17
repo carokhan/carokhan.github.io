@@ -1,4 +1,4 @@
-# Louisa County High School CTF 2022
+# Louisa County High School CTF
 ### May 13th - May 15th, 2022
 ***
 ## Writeups:
