@@ -10,7 +10,7 @@
   - Location Location Location (50)
 - web
   - I don’t see how you can ever finish, if you don't begin (100)
-  - Is my house locked? (150)
+  - [Is my house locked? (150)](./web/ismyhouselocked.md)
 - forensics
   - [A picture is worth 1000 words. (25)](./forensics/apictureisworth1k.md)
   - What the Hex is going on (125)
