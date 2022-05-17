@@ -3,7 +3,7 @@
 ***
 ## Writeups:
 - cryptography
-  - Can you speak this language? (75)
+  - [Can you speak this language? (75)](./cryptography/canyouspeak.md)
   - Lost my password (200)
 - osint
   - Knowledge is the key to success (50)
