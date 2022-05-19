@@ -22,25 +22,25 @@ While there is the intended solution of trying different SQL injection payloads,
 		<p>Riyaz Walikar | @riyazwalikar</p>
 ```
 I searched "Riyaz Walikar SQL injection" and found [this Github repo](https://github.com/riyazwalikar/sql-injection-training-app).
-```
-$ strings apictureisworth1kwords.jpg -n 8
-bFBMD0a000a88010000041400002b270000e7290000c92b0000423e0000ac730000ea790000997c0000c77e00000df70000
-((((((((((((((((((((((((((((((((((((((((((((((((((    
-dhKc0w9JH1ZFIb-xzcC_
-*******************
-Photoshop 3.0
-E%G3.JMlncT)
-eE;`w=z&k
-]Q]qcdHs.wEM
-`'I=cEW87K
-`v.0gg4u^T
-~J,nwu't`X
--0-(0%()(
-f^/ske>`H
-mwW{ZIkI> 
-```
+
+Looking in the README, we see that using `admin' -- // ` as a payload should work.
+
+Trying this is successful, and we get this message:
+> All hail the admin!!
+> Nice Try. Great job, getting this far.
+> 
+> Checkout the hint below
+> Don't go down the rabbit hole.
+
+Looking at the list of users, Alice of Alice in Wonderland fame is most commonly associated with rabbit holes.
+
+Logging and changing our payload to `alice' -- // ` returns:
+> In wonderland right now :O
+> 
+> Collect Your Flag:
+> \********************
 
 <details> 
     <summary>Flag</summary>
-CTF{LouisLeads2022}
+ctf{Catj'7[v@pKzPG*}
 </details>
