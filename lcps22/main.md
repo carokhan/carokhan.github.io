@@ -4,7 +4,7 @@
 ## Writeups:
 - cryptography
   - [Can you speak this language? (75)](./cryptography/canyouspeak.md)
-  - Lost my password (200)
+  - [Lost my password (200)](./cryptography/lostmypass.md)
 - osint
   - [Knowledge is the key to success (50)](./osint/knowledgeisthekey.md)
   - [Location Location Location (50)](./osint/location.md)
