@@ -9,7 +9,7 @@
 > Download file: [lostmypassword.php](../assets/lostmypassword.php)
 
 ## Solution 
-We are given another login page and told to login as the user `jjohnson`. Last time, loggin as the admin provided a hint. This time, if we try admin/admin, we see:
+We are given another login page and told to login as the user `jjohnson`. Last time, logging as the admin provided a hint. This time, if we try admin/admin, we see:
 
 ```
 All hail the admin!!
@@ -38,7 +38,7 @@ for w in tqdm(words):
     else:
         pass
 ```
-This iterates through every word in a given wordlist and attempts to pass it in as the password of jjohnson. I started with rockyou-20.
+This iterates through every word in a given wordlist and attempts to pass it in as the password of jjohnson. I started with [rockyou-20](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/rockyou-20.txt).
 
 ```
 $ python bruteforce.py /usr/share/seclists/Passwords/Leaked-Databases/rockyou-20.txt
