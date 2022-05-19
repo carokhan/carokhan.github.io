@@ -8,20 +8,11 @@
 
 
 ## Solution 
-We notice that none of the numbers in the cipher are above 26 characters. This is characteristic of the A1Z26 cipher.
+OrgID means organization ID and RegDate means registration date. We can use an IP whois service for this. For example: [https://iplocation.io/ip-whois-lookup/%2019.12.97.37](https://iplocation.io/ip-whois-lookup/%2019.12.97.37) 
 
-While we can do this manually, we can also script it in Python.
-
-```py
->>> cipher = "23-5-12-3-15-13-5 20-15 20-8-5 10-21-14-7-12-5"
->>> words = cipher.split(" ") 
->>> letters = [word.split("-") for word in words]
->>> final = "".join([string.ascii_lowercase[int(i)-1] for i in letters for l in i])
->>> print(final)
-******************
-```
+This provides the necessary information.
 
 <details> 
     <summary>Flag</summary>
-ctf{welcometothejungle}
-</details>
+CTF{FORDMO:1988-06-15}
+    </details>
