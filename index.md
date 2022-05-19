@@ -1,4 +1,3 @@
-# My CTF Writeups
 ## 2022
  - [05/14 - 05/20] HackTheBox CyberApocalypse
  - [[05/13 - 05/15] Louisa County High School CTF](./lcps22/main.md)
