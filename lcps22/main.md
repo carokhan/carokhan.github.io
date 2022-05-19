@@ -7,7 +7,7 @@
   - Lost my password (200)
 - osint
   - [Knowledge is the key to success (50)](./osint/knowledgeisthekey.md)
-  - Location Location Location (50)
+  - [Location Location Location (50)](./osint/location.md)
 - web
   - [I don’t see how you can ever finish, if you don't begin (100)](./web/idontsee.md)
   - [Is my house locked? (150)](./web/ismyhouselocked.md)
