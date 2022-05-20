@@ -1,8 +1,10 @@
 # Golden Persistence (300)
-#### programming - [HackTheBox CyberApocalypse 2022](../main.md)
+#### forensics - [HackTheBox CyberApocalypse 2022](../main.md)
 
 ## Challenge description:
-
+> The challenge has a downloadable part. 
+>
+> Download file: [forensics_golden_persistence.zip](../assets/forensics_golden_persistence.zip)
 ## Solution 
 
 
