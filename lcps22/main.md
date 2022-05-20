@@ -17,7 +17,7 @@
 - general
   - [How do you? (5)](./general/howdoyou.md)
 - reversing
-  - [Hack the code! (35)](./reversing/hackthecode.md)
+  - [Hack the code! (350)](./reversing/hackthecode.md)
 
 ## Unsolved:
 - none!
