@@ -19,7 +19,7 @@ Finished in 1st place with only two challenges unsolved :)
   - [Cowsay (150)](./web/cowsay.md)
   - [Intrawebz (100)](./web/intrawebz.md)
 - forensics
-  - [Noah's Compression](./forensics/noahscompression.md) (200)
+  - [Noah's Compression (200)](./forensics/noahscompression.md)
   - [A2PR#6 (100)](./forensics/a2pr6.md)
 - pwn
   - [From C to Shining C (100)](./pwn/fromctoshiningc.md)
