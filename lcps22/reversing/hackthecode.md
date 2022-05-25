@@ -1,5 +1,5 @@
 # Hack the code! (350)
-#### general - [Louisa County High School](../main.md)
+#### reversing - [Louisa County High School](../main.md)
 
 ## Challenge description:
 > Download the attached checkkey.exe. Run it on a windows computer. Your task it to reverse engineer this program to break the code. Once you break the code, enter the flag to win the game!

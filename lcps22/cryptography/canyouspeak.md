@@ -1,5 +1,5 @@
 # Can you speak this language? (75)
-#### general - [Louisa County High School](../main.md)
+#### crypto - [Louisa County High School](../main.md)
 
 ## Challenge description:
 > To capture this flag, you needed to have made good grades in Kindergarten. You know, where you learned your abc's and 123's. You must decode the secret message to reveal the flag: 23-5-12-3-15-13-5 20-15 20-8-5 10-21-14-7-12-5

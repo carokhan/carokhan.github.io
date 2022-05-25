@@ -1,5 +1,5 @@
 # Is my house locked? (150)
-#### general - [Louisa County High School](../main.md)
+#### web - [Louisa County High School](../main.md)
 
 ## Challenge description:
 > Use your skills to check out the host 

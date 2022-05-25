@@ -1,5 +1,5 @@
 # A picture is worth 1000 words (25)
-#### general - [Louisa County High School](../main.md)
+#### forensics - [Louisa County High School](../main.md)
 
 ## Challenge description:
 > Download the attached image. Don't get lost in all those pixels. Find the flag in all those details.
