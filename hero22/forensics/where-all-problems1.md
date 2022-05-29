@@ -14,7 +14,7 @@ After we unzip the file, we can see what it is with the `file` command.
 $ file usb.dump
 usb.dump: DOS/MBR boot sector, code offset 0x58+2, OEM-ID "mkfs.fat", sectors/cluster 8, Media descriptor 0xf8, sectors/track 62, heads 124, hidden sectors 32, sectors 7831282 (volumes > 32 MB), FAT (32 bit), sectors/FAT 7640, reserved 0x1, serial number 0x9c286c52, unlabeled
 ```
-We can use the `fls` command (part of sleuthkit) to see the files inside. This is useful as it also shows deleted commands, denoted by an `*`.
+We can use the `fls` command (part of [sleuthkit](https://www.sleuthkit.org/)) to see the files inside. This is useful as it also shows deleted commands, denoted by an `*`.
 ```
 $ fls usb.dump
 r/r * 5:        Important_Document.lnk
@@ -33,7 +33,7 @@ v1.0l2ï¿½FSï¿½k powershell.exeNerSheï¿½FSï¿½kï¿½T8ï¿½.Nï¿½xz?powershell.exeh-gï¿
                                                                                                                        )M&ï¿½0gF&_zEï¿½ï¿½ï¿½]ï¿½ï¿½ï¿½Rï¿½eï¿½ï¿½ï¿½ï¿½^
                                                                                                                                                  )M&ï¿½ï¿½	ï¿½ï¿½1SPSï¿½XFï¿½L8Cï¿½ï¿½ï¿½&ï¿½mï¿½q/S-1-5-21-1162904530-3654154924-4196022673-100091SPSï¿½mDï¿½ï¿½pHï¿½H@.ï¿½=xï¿½hHï¿½<ï¿½ï¿½ï¿½Aï¿½ï¿½7vï¿½ï¿½)
 ```
-While it isn't completely in plaintext, there is an encoded command in PowerShell. We can use Cyberchef to decode it.
+While it isn't completely in plaintext, there is an encoded command in PowerShell. We can use [Cyberchef](https://gchq.github.io/CyberChef/) to decode it.
 
 ![Screenshot of Cyberchef](../assets/ksnip_20220529-172825.png)
 

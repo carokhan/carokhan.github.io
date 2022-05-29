@@ -20,6 +20,7 @@ acpid.log  chrony   dmesg   messages   wtmp
 ```
 Reading them all with `less`, the `messages` file was the jackpot.
 ![Screenshot of messages file](../assets/ksnip_20220529-002203.png)
+
 We see the IP address of the connection.
 
 <details> 

@@ -7,7 +7,7 @@
 > Download file: [basic_rev](../assets/basic_rev)
 
 ## Solution
-The description hints at two tools to work with, likely Ghidra and gdb/gef.
+The description hints at two tools to work with, likely [Ghidra](https://ghidra-sre.org/) and [gdb](https://ctf101.org/reverse-engineering/what-is-gdb/)/[gef](https://github.com/hugsy/gef).
 
 First, I ran the binary.
 ```

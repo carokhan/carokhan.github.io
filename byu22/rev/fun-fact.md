@@ -19,7 +19,7 @@ However, just running this is unsafe, so we can decode it ourselves (for example
 ```
 $ echo "..." | base64 -d
 ```
-This returns python.
+This returns Python code.
 ```py
 import random, string
     
