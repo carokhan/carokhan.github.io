@@ -17,14 +17,16 @@
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <h2><a href="https://github.com/hcpssaurava/">{{ site.description | default: site.github.project_tagline }}</a> | <a href="{{ '/about.html' | relative_url }}">about</a> </h2>
       </div>
+      
     </header>
 
     <div class="container">
       <section id="main_content">
         {{ content }}
       </section>
+      
     </div>
   </body>
 </html>
