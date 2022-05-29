@@ -1,4 +1,4 @@
-# Oh The Vanity
+# Oh The Vanity - 100
 #### osint - [BYUCTF](../main.md)
 
 ## Challenge description:

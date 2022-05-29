@@ -1,4 +1,4 @@
-# Basic Rev
+# Basic Rev - 50
 #### rev - [BYUCTF](../main.md)
 
 ## Challenge description:
@@ -136,7 +136,7 @@ $ ./basic_rev
 Enter an integer: 289
 Finished processing flag!
 ```
-Huh - still nothing. If I wasn't in such a rush I would have noticed the constructFlag function returns nothing. (If I wasn't in such a rush I would also see the flag is here in plaintext, just broken apart. Lessons learned.)However, we can see the memory values in gdb/gef. I set a breakpoint for the constructFlag function, ran the program, entered 289, and stepped through each instruction.
+Huh - still nothing. If I wasn't in such a rush I would have noticed the constructFlag function returns nothing. (If I wasn't in such a rush I would also see the flag is here in plaintext, just broken apart. Lessons learned.) However, we can see the memory values in gdb/gef. I set a breakpoint for the constructFlag function, ran the program, entered 289, and stepped through each instruction.
 ```
 $ gdb basic_rev
 GNU gdb (Ubuntu 9.2-0ubuntu1~20.04.1) 9.2

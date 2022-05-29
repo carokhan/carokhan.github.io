@@ -1,4 +1,4 @@
-# Banana Smoothie
+# Banana Smoothie - 349
 #### steg - [BYUCTF](../main.md)
 
 ## Challenge description:

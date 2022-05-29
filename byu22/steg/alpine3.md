@@ -1,4 +1,4 @@
-# Alpine 3
+# Alpine 3 - 50
 #### steg - [BYUCTF](../main.md)
 
 ## Challenge description:

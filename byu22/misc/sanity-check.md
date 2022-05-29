@@ -1,4 +1,4 @@
-# Sanity Check
+# Sanity Check - 50
 #### misc - [BYUCTF](../main.md)
 
 ## Challenge description:

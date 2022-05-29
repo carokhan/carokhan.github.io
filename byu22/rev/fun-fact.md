@@ -1,4 +1,4 @@
-# Fun Fact
+# Fun Fact - 50
 #### rev - [BYUCTF](../main.md)
 
 ## Challenge description:
