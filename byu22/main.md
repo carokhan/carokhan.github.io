@@ -2,7 +2,7 @@
 ### May 27th - May 28th, 2022
 ***
 ## Event results
-Played solo, finished in 50th! :) (scoreboard [here](https://ctftime.org/event/1660))
+Played solo, finished in 50th under bloo chese! :) (scoreboard [here](https://ctftime.org/event/1660))
 ## Writeups:
 - misc
   - [makes - 267](misc/makes.md)
