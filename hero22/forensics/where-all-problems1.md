@@ -7,6 +7,7 @@
 > Could you provide us the malicious URL used to download something ?
 >
 > Download file: [dump.7z](../assets/dump.7z)
+
 ## Solution 
 After we unzip the file, we can see what it is with the `file` command.
 ```
