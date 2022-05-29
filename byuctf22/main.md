@@ -2,7 +2,7 @@
 ### May 27th - May 28th, 2022
 ***
 ## Event results
-Played solo, finished in 50th :)
+Played solo, finished in 50th! :)
 ## Writeups:
 - misc
   - [makes](misc/makes.md)
