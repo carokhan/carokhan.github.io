@@ -14,7 +14,7 @@ After we unzip the file, we can see what it is with the `file` command.
 $ file usb.dump
 usb.dump: DOS/MBR boot sector, code offset 0x58+2, OEM-ID "mkfs.fat", sectors/cluster 8, Media descriptor 0xf8, sectors/track 62, heads 124, hidden sectors 32, sectors 7831282 (volumes > 32 MB), FAT (32 bit), sectors/FAT 7640, reserved 0x1, serial number 0x9c286c52, unlabeled
 ```
-We can use the `fls` command (part of [sleuthkit](https://www.sleuthkit.org/)) to see the files inside. This is useful as it also shows deleted commands, denoted by an `*`.
+We can use the `fls` command (part of [sleuthkit](https://www.sleuthkit.org/)) to see the files inside. This is useful as it also shows deleted files, denoted by an `*`.
 ```
 $ fls usb.dump
 r/r * 5:        Important_Document.lnk
