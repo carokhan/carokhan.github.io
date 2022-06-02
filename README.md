@@ -15,3 +15,7 @@ to do:
   - va-tsa22/crypto/backupshare
   - va-tsa22/forensics/a2pr6
   - va-tsa22/forensics/noahscompression
+  - va-tsa22/programming/gobig
+  - va-tsa22/pwn/fromctoshiningc
+  - va-tsa22/pwn/stackthis
+  - va-tsa22/reversing/noproblem
