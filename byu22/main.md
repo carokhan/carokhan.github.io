@@ -8,13 +8,12 @@ Played solo, finished in 50th under bloo chese! :) (scoreboard [here](https://ct
   - [makes - 267](misc/makes.md)
   - [reconstruct - 183](misc/reconstruct.md)
   - [sanity-check - 50](misc/sanity-check.md)
-  - feedback-survey - 275
 - osint
   - [oh-the-vanity - 100](osint/oh-the-vanity.md)
 - rev
   - [basic-rev - 50](rev/basic-rev.md)
   - [fun-fact - 50](rev/fun-fact.md)
-  - windows-xp - 50
+  - [windows-xp - 50](rev/windows-xp.md)
 - steg
   - [alpine1 - 50](steg/alpine1.md)
   - [alpine2 - 50](steg/alpine2.md)
@@ -22,6 +21,6 @@ Played solo, finished in 50th under bloo chese! :) (scoreboard [here](https://ct
   - [banana-smoothie - 349](steg/banana-smoothie.md)
   - [sticky-key - 304](steg/sticky-key.md)
 - web
-  - fetaverse - 50
-  - grafana - 460
-  - wordle - 359
+  - [fetaverse - 50](web/fetaverse.md)
+  - [grafana - 460](web/grafana.md)
+  - [wordle - 359](web/wordle.md)

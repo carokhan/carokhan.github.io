@@ -1,22 +1,14 @@
-# Fetaverse - 304
-#### steg - [BYUCTF](../main.md)
+# Fetaverse - 50
+#### web - [BYUCTF](../main.md)
 
 ## Challenge description:
-> I just got this email from my friend. I think he was trying to tell me something important, but it just looks like random symbols.
-> 
-> Subject: ˆ ˇ˙ˆ˜˚ Â¥ ´¥∫øå®∂ ˆß ∫®ø˚´˜
-> 
-> Contents: ˆ †˙ˆ˜˚ µ¥ ˚´¥∫øå®∂ ˆß ∫®ø˚´˜≥ ˆ ∑åß π¬å˜˜ˆ˜© †ø †´¬¬ ¥ø¨ †˙ˆß ∫¨† ˆæµ ˜ø† ß¨®´ ˙ø∑ ¥ø¨ ∑ˆ¬¬ ®´å∂ ˆ†≥ Óøπ´ƒ¨¬¬¥ ¥ø¨ çå˜ ƒˆ˜∂ å ∑å¥≥ ∫¥¨ç†ƒ”∂ø˜†—¬´å√´—ßø∂å—∫¥—¥ø¨®—˚´¥∫øå®∂’
+> Come explore the fetaverse of cheesy puns and pics. It's an un-brie-lievably well-designed site!
+>
+> http://fetaverse.byuctf.xyz
 
 
 ## Solution
-I had no idea where to start, so I just Googled the subject line. Conveniently, the first result was [this](https://lingojam.com/SymbolLanguageTranslator).
-
-Pasting both lines in there reveals:
-> Subject: i think my keyboard is broken
-> 
-> contents: i think my keyboard is broken. i was planning to tell you this but iæm not sure how you will read it. hopefully you can find a way. byuctf”********************************’
+Looking at the requests, we see images are stored at /images. There is a local folder inclusion for the memes directory, in which there is an image with the flag.
 <details> 
     <summary>Flag</summary>
-byuctf{dont—leave—soda—by—your—keyboard}
-</details>
+byuctf{welc0me_t0_the_fetaverse}</details>
