@@ -9,6 +9,7 @@
 
 ## Solution
 Looking at the requests, we see images are stored at /images. There is a local folder inclusion for the memes directory, in which there is an image with the flag.
+![flag image](../assets/meme7.png)
 <details> 
     <summary>Flag</summary>
 byuctf{welc0me_t0_the_fetaverse}</details>

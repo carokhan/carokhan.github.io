@@ -33,10 +33,7 @@ We see the hash we get is of the string of squares representing our guess. From 
 ```py
 >>> import hashlib
 >>> possible = ("⬛", "🟨", "🟩")
->>> states = {hashlib.md5((a + b + c + d + e).encode('utf
--8')).hexdigest(): a + b + c + d + e for a in possible fo
-r b in possible for c in possible for d in possible for e
- in possible}
+>>> states = {hashlib.md5((a + b + c + d + e).encode('utf-8')).hexdigest(): a + b + c + d + e for a in possible for b in possible for c in possible for d in possible for e in possible}
 >>> states["dbf1897c0991bbf7922e86de847d4df4"]
 '⬛⬛⬛⬛⬛'
 ```
