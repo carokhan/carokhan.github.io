@@ -1,4 +1,5 @@
 ## 2022
+ - [[06/02 - 06/03] SecurityFest CTF](./secfest22/main.md)
  - [[05/27 - 05/29] HeroCTF](./hero22/main.md)
  - [[05/27 - 05/28] BYUCTF](./byu22/main.md)
  - [[05/14 - 05/19] HackTheBox CyberApocalypse CTF: Intergalactic Chase](./htbca22/main.md)
