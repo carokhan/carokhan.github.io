@@ -50,9 +50,7 @@ NTUSER.DAT\SOFTWARE\Microsoft\Windows\CurrentVersion\Run> lsval
 NTUSER.DAT\SOFTWARE\Microsoft\Windows\CurrentVersion\Run>
 ```
 
-Ah! An encoded PowerShell command. All we have to do is base64 decode it and we're good, right? :)
-
-This was the beginning of one of several mistakes. 
+An encoded PowerShell command. All we have to do is base64 decode it and we're good, right? :)
 
 First, I stuck it in [CyberChef](https://gchq.github.io/CyberChef) and used its From Base64 recipe. This returned...
 ```ps
@@ -132,8 +130,6 @@ f.u.n.c.t.i.o.n. .e.n.c.r. .{.
 ```
 Weird, I thought PowerShell just used raw base64? Well, all I have to do is remove all the periods and I'll be fine, right? :)
 
-This was my second mistake.
-
 After sticking it in a text editor and removing all the periods, I got:
 ```ps
 function encr {
@@ -210,7 +206,7 @@ $DecryptedBytes = encr $data $key
 $DecryptedString = $encGetString($DecryptedBytes)
 $DecryptedString|iex
 ```
-Now this is something I can work with! Skimming the script, I saw the lines with the `$encrypted* =` are just pulling key values from the registry, so I get those manually. The last line executes the decrypted string, so all I need to do is comment that out and print out the decrypted string instead. Easy enough, right? :)
+Skimming the script, I saw the lines with the `$encrypted* =` are just pulling key values from the registry, so I get those manually. The last line executes the decrypted string, so all I need to do is comment that out and print out the decrypted string instead.
 
 ```
 $ hivexsh NTUSER.DAT
@@ -315,7 +311,7 @@ $DecryptedString = $encGetString($DecryptedBytes)
 Write-Output $DecryptedString
 # $DecryptedString|iex
 ```
-All I have to do now is run it :)
+
 ```
 $ pwsh solve.ps1
 ParserError: 
@@ -326,9 +322,7 @@ Line |
 ```
 ...
 
-I took a break from the challenge as I was frustrated from feeling steps away from the solution and then feeling like I was nowhere close.
-
-At this point anyone who has ever looked at PowerShell is probably yelling at me. Remember when I removed all the periods? Turns out those are important. Oops.
+Remember when I removed all the periods? Turns out those are important. Oops. 
 
 I didn't realize this until a few hours later, when I was working on another challenge and came across [this article](https://www.pwndefend.com/2021/09/04/decoding-powershell-base64-encoded-commands-in-cyberchef/).
 
@@ -344,7 +338,7 @@ Line |
      | Attempted to divide by zero.
 ```
 
-Finally, something I can maybe debug easily! Looking at where $key is defined, it references a $enc.
+Looking at where $key is defined, it references a $enc.
 ```ps
 [Byte[]]$key = $enc.GetBytes("Q0mmpr4B5rvZi3pS")
 ```
